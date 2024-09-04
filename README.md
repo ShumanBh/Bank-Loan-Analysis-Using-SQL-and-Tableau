@@ -20,11 +20,11 @@ The project utilizes a dedicated bank loan database as the primary data source.
 
 
 The Summary Dashboard captures key loan-related metrics and their changes over time, providing a snapshot of the loan portfolio's health and lending strategy impact. It includes the following KPIs:
-- Total Loan Applications (MTD and MoM)
-- Total Funded Amount (MTD and MoM)
-- Total Amount Received (MTD and MoM)
-- Average Interest Rate (MTD and MoM)
-- Average Debt-to-Income Ratio (DTI) (MTD and MoM)
+- Total Loan Applications (MTD)
+- Total Funded Amount (MTD)
+- Total Amount Received (MTD)
+- Average Interest Rate (MTD)
+- Average Debt-to-Income Ratio (DTI) (MTD)
 
 Additionally, it distinguishes between 'Good Loans' and 'Bad Loans,' with specific indicators for each category, helping in the assessment of loan portfolio quality.
 
@@ -96,4 +96,3 @@ By incorporating robust data validation techniques, the Bank Loan Dashboard proj
 
 ## References
 - [DataTutorials](https://www.youtube.com/watch?v=7S5vkJVuaHc&list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_&index=24&ab_channel=DataTutorials)
-- [Data source](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true)
